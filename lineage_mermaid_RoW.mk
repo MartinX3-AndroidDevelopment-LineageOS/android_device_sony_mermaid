@@ -16,7 +16,7 @@
 $(call inherit-product, device/sony/mermaid/aosp_i3213.mk)
 
 # Override Product Name
-PRODUCT_NAME := lineage_mermaid_DSDS
+PRODUCT_NAME := lineage_mermaid_RoW
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := mermaid
